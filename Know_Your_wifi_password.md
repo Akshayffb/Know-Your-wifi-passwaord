@@ -5,7 +5,7 @@
 #### 1
 
 ```sh
-netsh wlan show profile name = Akshayffb key = clear
+netsh wlan show profile name = (name of your wifif) key = clear
 ```
 
 #### 2
